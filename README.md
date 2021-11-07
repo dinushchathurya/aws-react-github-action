@@ -1,5 +1,8 @@
 ## Deploy React to AWS S3 using GitHub Action
 
+### Setup
+
+* Copy the content in `.github/workflows/main.yml` file in this repository to your `.github/workflows/main.yml` file.
 ### Configuration 
 
 * Add the following to your our Github secrets (under settings->secrets tab).
@@ -14,3 +17,9 @@
 * Click "create access key", 
 * Copy `access key id` and `secret access key id` , 
 * Paste them to Github secrets.
+
+### Deploy
+
+* After commiting your change, then go to your Github repository and click on `actions` tab.
+* Then click on `CI` action.
+* Then click on `Run` button.
