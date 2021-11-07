@@ -20,6 +20,6 @@
 
 ### Deploy
 
-* After commiting your change, then go to your Github repository and click on `actions` tab.
+* After commiting your changes, then go to your Github repository and click on `actions` tab.
 * Then click on `CI` action.
 * Then click on `Run` button.
