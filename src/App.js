@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          AWS React GitHub Action Boilerplate
+          Deploy React App to AWS S3 using GitHub Actions
         </p>
       </header>
     </div>
